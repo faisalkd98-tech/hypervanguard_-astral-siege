@@ -1,0 +1,6 @@
+{
+  "name": "HyperVanguard: Astral Siege",
+  "description": "An intense top-down sci-fi space action arena game. Master agile space drifting, destroy rogue drone swarms, unlock weapon synergies, and conquer deep space bosses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
